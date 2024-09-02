@@ -1,0 +1,1 @@
+This project is basic C++ program designed for beginners. It includes four source file that print output in console. To run the program, you will need a C++ compiler such as g++ (for Linux/macOS) or MinGW(for windows).Simply compile the code using command 
