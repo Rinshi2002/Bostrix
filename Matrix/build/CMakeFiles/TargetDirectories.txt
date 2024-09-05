@@ -1,0 +1,7 @@
+/root/training/rinshida/Matrix/build/CMakeFiles/howdy.dir
+/root/training/rinshida/Matrix/build/CMakeFiles/Matrix.dir
+/root/training/rinshida/Matrix/build/CMakeFiles/matrix-getVersion.dir
+/root/training/rinshida/Matrix/build/CMakeFiles/matrix-test.dir
+/root/training/rinshida/Matrix/build/CMakeFiles/check.dir
+/root/training/rinshida/Matrix/build/CMakeFiles/edit_cache.dir
+/root/training/rinshida/Matrix/build/CMakeFiles/rebuild_cache.dir

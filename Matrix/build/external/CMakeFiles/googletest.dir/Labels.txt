@@ -1,0 +1,13 @@
+# Target labels
+ googletest
+# Source files and their labels
+/root/training/rinshida/Matrix/build/external/CMakeFiles/googletest
+/root/training/rinshida/Matrix/build/external/CMakeFiles/googletest.rule
+/root/training/rinshida/Matrix/build/external/CMakeFiles/googletest-complete.rule
+/root/training/rinshida/Matrix/build/external/external/src/googletest-stamp/googletest-build.rule
+/root/training/rinshida/Matrix/build/external/external/src/googletest-stamp/googletest-configure.rule
+/root/training/rinshida/Matrix/build/external/external/src/googletest-stamp/googletest-download.rule
+/root/training/rinshida/Matrix/build/external/external/src/googletest-stamp/googletest-install.rule
+/root/training/rinshida/Matrix/build/external/external/src/googletest-stamp/googletest-mkdir.rule
+/root/training/rinshida/Matrix/build/external/external/src/googletest-stamp/googletest-patch.rule
+/root/training/rinshida/Matrix/build/external/external/src/googletest-stamp/googletest-update.rule

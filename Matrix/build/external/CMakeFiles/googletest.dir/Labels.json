@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/root/training/rinshida/Matrix/build/external/CMakeFiles/googletest"
+		},
+		{
+			"file" : "/root/training/rinshida/Matrix/build/external/CMakeFiles/googletest.rule"
+		},
+		{
+			"file" : "/root/training/rinshida/Matrix/build/external/CMakeFiles/googletest-complete.rule"
+		},
+		{
+			"file" : "/root/training/rinshida/Matrix/build/external/external/src/googletest-stamp/googletest-build.rule"
+		},
+		{
+			"file" : "/root/training/rinshida/Matrix/build/external/external/src/googletest-stamp/googletest-configure.rule"
+		},
+		{
+			"file" : "/root/training/rinshida/Matrix/build/external/external/src/googletest-stamp/googletest-download.rule"
+		},
+		{
+			"file" : "/root/training/rinshida/Matrix/build/external/external/src/googletest-stamp/googletest-install.rule"
+		},
+		{
+			"file" : "/root/training/rinshida/Matrix/build/external/external/src/googletest-stamp/googletest-mkdir.rule"
+		},
+		{
+			"file" : "/root/training/rinshida/Matrix/build/external/external/src/googletest-stamp/googletest-patch.rule"
+		},
+		{
+			"file" : "/root/training/rinshida/Matrix/build/external/external/src/googletest-stamp/googletest-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"googletest"
+		],
+		"name" : "googletest"
+	}
+}
